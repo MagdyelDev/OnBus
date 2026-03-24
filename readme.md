@@ -12,6 +12,7 @@ A principal dificuldade é a falta de acesso a informações confiáveis e atual
 
 **Por que isso é relevante?**
 Esse problema impacta diretamente a rotina das pessoas, causando atrasos em compromissos importantes como escola e trabalho, além de afetar a qualidade de vida, a segurança e o acesso à mobilidade urbana.
+
 ---
 
 ## 💡 Solução Proposta
