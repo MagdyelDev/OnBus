@@ -27,7 +27,8 @@ Ana Souza, 28 anos, é uma trabalhadora urbana que depende diariamente do transp
 Seu principal objetivo é ter controle sobre seus deslocamentos, evitando atrasos e longos tempos de espera nos pontos de ônibus. Suas maiores dores são a falta de informações atualizadas sobre horários, a imprevisibilidade dos atrasos e a dificuldade em encontrar rotas alternativas quando algo dá errado.
 No perfil digital, Ana é usuária frequente de smartphone e prefere aplicativos intuitivos que funcionem bem mesmo com conexão limitada. Quando encontra uma ferramenta útil, tende a incorporá-la à sua rotina diária.
 
-![Persona](./imagens/persona.png)
+![Persona](https://github.com/user-attachments/files/26212072/persona_ana_souza.docx.pdf)
+
 
 ---
 
