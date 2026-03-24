@@ -2,12 +2,16 @@
 
 ## 📌 Problema
 
-Descreva aqui o problema escolhido.
+Usuários de transporte público enfrentam dificuldades para acessar informações confiáveis sobre horários de ônibus, rotas e condições das vias, especialmente em cidades do interior. Muitas vezes, os horários disponíveis não são atualizados ou simplesmente não existem em formato digital, o que obriga as pessoas a dependerem de informações informais ou da tentativa e erro no dia a dia. Como consequência, ocorrem atrasos frequentes, longos períodos de espera e insegurança durante o deslocamento. Esse problema afeta principalmente estudantes, trabalhadores e pessoas que não possuem transporte próprio, impactando diretamente sua rotina, produtividade e qualidade de vida.
 
-- Quem é afetado?
-- Qual a dificuldade?
-- Por que isso é relevante?
+**Quem é afetado?**
+Estudantes, trabalhadores, pessoas de baixa renda e usuários que dependem exclusivamente do transporte público, especialmente em cidades do interior.
 
+**Qual a dificuldade?**
+A principal dificuldade é a falta de acesso a informações confiáveis e atualizadas sobre horários de ônibus, rotas e condições das vias, o que gera atrasos, longas esperas e desorganização no deslocamento.
+
+**Por que isso é relevante?**
+Esse problema impacta diretamente a rotina das pessoas, causando atrasos em compromissos importantes como escola e trabalho, além de afetar a qualidade de vida, a segurança e o acesso à mobilidade urbana.
 ---
 
 ## 💡 Solução Proposta
