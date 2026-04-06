@@ -2,7 +2,17 @@
 
 ## 📌 Problema
 
-Usuários de transporte público enfrentam dificuldades para acessar informações confiáveis sobre horários de ônibus, rotas e condições das vias, especialmente em cidades do interior. Muitas vezes, os horários disponíveis não são atualizados ou simplesmente não existem em formato digital, o que obriga as pessoas a dependerem de informações informais ou da tentativa e erro no dia a dia. Como consequência, ocorrem atrasos frequentes, longos períodos de espera e insegurança durante o deslocamento. Esse problema afeta principalmente estudantes, trabalhadores e pessoas que não possuem transporte próprio, impactando diretamente sua rotina, produtividade e qualidade de vida.
+Pessoas que dependem diariamente de ônibus, como estudantes e trabalhadores, enfrentam dificuldades para acessar informações confiáveis sobre horários, rotas e previsibilidade do transporte público, principalmente em cidades do interior. Em muitos casos, essas informações não estão disponíveis de forma digital ou estão desatualizadas, obrigando os usuários a dependerem de estimativas ou informações informais no dia a dia.
+
+Segundo dados da Gazeta do Povo, cerca de 24% dos usuários apontam o tempo de espera como um dos principais problemas, o que está diretamente ligado à falta de previsibilidade do sistema (https://www.gazetadopovo.com.br/gpbc/metrocard/o-impacto-da-previsibilidade-do-transporte-publico/
+). Isso mostra que a dificuldade não é apenas o transporte em si, mas a ausência de informações confiáveis que permitam ao usuário se planejar.
+
+Além disso, conforme destacado pelo Correio Braziliense, a perda de confiança no transporte público tem levado à queda no número de passageiros, com reduções que chegaram a até 70% em períodos recentes (https://www.correiobraziliense.com.br/opiniao/2024/07/6908082-artigo-contrastes-no-transporte-publico-e-o-futuro-da-mobilidade-urbana.html
+). Esse cenário reforça que a desorganização e a falta de previsibilidade impactam diretamente a escolha dos usuários.
+
+Outro ponto importante é a desigualdade social presente nesse contexto: enquanto pessoas com maior poder aquisitivo podem optar por carros ou aplicativos, usuários de baixa renda dependem exclusivamente do transporte público e sofrem mais com essas falhas.
+
+Como consequência, essas pessoas enfrentam atrasos frequentes, longos períodos de espera e insegurança no deslocamento, o que impacta diretamente sua rotina, produtividade e qualidade de vida.
 
 **Quem é afetado?**
 Estudantes, trabalhadores, pessoas de baixa renda e usuários que dependem exclusivamente do transporte público, especialmente em cidades do interior.
