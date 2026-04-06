@@ -17,7 +17,7 @@ Esse problema impacta diretamente a rotina das pessoas, causando atrasos em comp
 
 ## 💡 Solução Proposta
 
-Uma possível solução é o desenvolvimento do OnBus, uma aplicação web e mobile que centraliza informações sobre transporte público em um só lugar. O sistema permite que os usuários consultem horários de ônibus, visualizem rotas e recebam alertas em tempo real sobre atrasos ou problemas nas vias. Além disso, conta com um sistema colaborativo, onde os próprios usuários podem reportar informações, ajudando a manter os dados sempre atualizados e mais confiáveis.
+A solução é o desenvolvimento do OnBus, uma aplicação web e mobile que centraliza informações sobre transporte público em um só lugar. O sistema permite que os usuários consultem horários de ônibus, visualizem rotas e recebam alertas em tempo real sobre atrasos ou problemas nas vias. Além disso, conta com um sistema colaborativo, onde os próprios usuários podem reportar informações, ajudando a manter os dados sempre atualizados e mais confiáveis.
 
 ---
 
