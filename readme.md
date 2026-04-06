@@ -14,6 +14,8 @@ Outro ponto importante é a desigualdade social presente nesse contexto: enquant
 
 Como consequência, essas pessoas enfrentam atrasos frequentes, longos períodos de espera e insegurança no deslocamento, o que impacta diretamente sua rotina, produtividade e qualidade de vida.
 
+---
+
 **Quem é afetado?**
 Estudantes, trabalhadores, pessoas de baixa renda e usuários que dependem exclusivamente do transporte público, especialmente em cidades do interior.
 
