@@ -48,7 +48,7 @@ No perfil digital, Ana é usuária frequente de smartphone e prefere aplicativos
 
 Descrição do fluxo.
 
-![Fluxo](./imagens/fluxo.png)
+[Fluxo](https://github.com/user-attachments/files/26661421/Projeto.OnBus.-.Fluxo.pdf)
 
 ---
 
