@@ -86,6 +86,17 @@ Interface final do sistema.
 
 ## 🚀 Considerações Finais
 
-- O que você aprendeu  
-- Dificuldades  
-- Melhorias futuras  
+🧠 O que eu aprendi
+Durante o desenvolvimento do OnBus, superei a curva de aprendizado inicial da ferramenta Figma. Aprendi a utilizar recursos essenciais para criar uma experiência fluida, como o uso de Auto Layout para componentes responsivos e a criação de prototipagem de alta fidelidade com animações, que conferem um aspecto profissional à interação do usuário. Além disso, aprofundei minha compreensão sobre o User Flow, entendendo como cada clique deve levar o usuário ao seu objetivo de forma intuitiva, sem fricções desnecessárias.
+
+⚠️ Dificuldades enfrentadas
+O maior desafio foi o gerenciamento do tempo. Trabalhar com um cronograma curto exigiu priorização das funcionalidades core do app. Além disso, como estou em fase de aprendizado constante em UI/UX, o manuseio técnico do Figma trouxe desafios em projetos anteriores, o que demandou um esforço extra de pesquisa e testes para garantir que o protótipo não fosse apenas visualmente agradável, mas também funcional e lógico.
+
+📈 Melhorias futuras
+Para as próximas versões e estudos, meu foco será:
+
+Refinamento de UI: Aplicar conceitos mais avançados de Design Systems, como a criação de uma biblioteca de componentes consistente (estilos de texto, cores e ícones) para acelerar o desenvolvimento.
+
+UX Research: Realizar testes de usabilidade com usuários reais (como a persona "Ana Souza") para validar se a interface realmente resolve a dor da previsibilidade no transporte.
+
+Integração com Código: Como sou estudante de desenvolvimento de sistemas, o próximo passo é transpor esses designs para um ambiente real (usando tecnologias de Front-end), otimizando a experiência para diferentes dispositivos e condições de rede.
