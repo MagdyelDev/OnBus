@@ -56,7 +56,7 @@ Descrição do fluxo.
 
 Estrutura inicial das telas.
 
-![Wireframe](./imagens/wireframe1.png)
+[🎨 Visualizar Design no Figma (Projeto OnBus)](https://www.figma.com/design/VpKLsBnprV3aps9jH1lh13/OnBus?node-id=0-1&t=G4fXrvRxAFaSecp7-1)
 
 ---
 
@@ -64,7 +64,7 @@ Estrutura inicial das telas.
 
 Interface final do sistema.
 
-![Tela](./imagens/tela1.png)
+[🎨 Visualizar Design no Figma (Projeto OnBus)](https://www.figma.com/design/VpKLsBnprV3aps9jH1lh13/OnBus?node-id=0-1&t=G4fXrvRxAFaSecp7-1)
 
 ---
 
