@@ -70,7 +70,7 @@ Interface final do sistema.
 
 ## 🔗 Acesse o Protótipo
 
-[Link do Figma](colocar_link_aqui)
+[Link do Figma]((https://www.figma.com/design/VpKLsBnprV3aps9jH1lh13/OnBus?node-id=0-1&t=G4fXrvRxAFaSecp7-1))
 
 ---
 
