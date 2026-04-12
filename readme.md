@@ -87,6 +87,7 @@ Interface final do sistema.
 ## 🚀 Considerações Finais
 
 🧠 O que eu aprendi
+
 Durante o desenvolvimento do OnBus, superei a curva de aprendizado inicial da ferramenta Figma. Aprendi a utilizar recursos essenciais para criar uma experiência fluida, como o uso de Auto Layout para componentes responsivos e a criação de prototipagem de alta fidelidade com animações, que conferem um aspecto profissional à interação do usuário. Além disso, aprofundei minha compreensão sobre o User Flow, entendendo como cada clique deve levar o usuário ao seu objetivo de forma intuitiva, sem fricções desnecessárias.
 
 ⚠️ Dificuldades enfrentadas
